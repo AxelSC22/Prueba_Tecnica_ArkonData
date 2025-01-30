@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API del Metrobús de la Ciudad de México</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <h1>API del Metrobús de la Ciudad de México</h1>
+    <div id="content">
+        <div id="unidades">
+            <h2>Unidades</h2>
+            <button onclick="fetchUnidades()">Obtener Unidades</button>
+            <div id="unidades-list"></div>
+        </div>
+        <div id="ubicaciones">
+            <h2>Ubicaciones de una Unidad</h2>
+            <input type="text" id="unidad-id" placeholder="ID de la Unidad">
+            <button onclick="fetchUbicaciones()">Obtener Ubicaciones</button>
+            <div id="ubicaciones-list"></div>
+        </div>
+        <div id="alcaldias">
+            <h2>Alcaldías</h2>
+            <button onclick="fetchAlcaldias()">Obtener Alcaldías</button>
+            <div id="alcaldias-list"></div>
+        </div>
+        <div id="paradas">
+            <h2>Paradas por Alcaldía</h2>
+            <input type="text" id="alcaldia-nombre" placeholder="Nombre de la Alcaldía">
+            <button onclick="fetchParadas()">Obtener Paradas</button>
+            <div id="paradas-list"></div>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,77 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color,route_sort_order,continuous_pickup,continuous_drop_off,ruta_id
+19429,1339,3,L03d03-1 tenayuca - la raza,3,7A9A01,FFFFFF,,,,1
+19430,1339,3,L03d03-2 la raza - tenayuca,3,7A9A01,FFFFFF,,,,2
+19455,1339,3,L03d02-1 tenayuca - buenavista,3,7A9A01,FFFFFF,,,,3
+19456,1339,3,L03d02-2 buenavista - tenayuca,3,7A9A01,FFFFFF,,,,4
+19457,1339,3,L03d04-1 tenayuca - balderas,3,7A9A01,FFFFFF,,,,5
+19458,1339,3,L03d04-2 balderas - tenayuca,3,7A9A01,FFFFFF,,,,6
+19459,1339,3,L03d05-1 tenayuca - pueblo sta. cruz atoyac,3,7A9A01,FFFFFF,,,,7
+19460,1339,3,L03d05-2 pueblo sta. cruz atoyac  - tenayuca,3,7A9A01,FFFFFF,,,,8
+19470,1339,6,L06g01-1 villa de aragón - el rosario,3,E44599,FFFFFF,,,,9
+19471,1339,6,L06g01-2 el rosario - villa de aragón,3,E44599,FFFFFF,,,,10
+19473,1339,6,L06g02-1 villa de aragón - ipn,3,E44599,FFFFFF,,,,11
+19472,1339,6,L06g02-2 ipn - villa de aragón,3,E44599,FFFFFF,,,,12
+19474,1339,6,L06g03-1 dep. 18 de marzo - el rosario,3,E44599,FFFFFF,,,,13
+19475,1339,6,L06g03-2 el rosario- dep. 18 de marzo,3,E44599,FFFFFF,,,,14
+19492,1339,1,L01a01-1 indios verdes - dr. gálvez,3,D40D0D,FFFFFF,,,,15
+19491,1339,1,L01a01-2 dr. gálvez - indios verdes,3,D40D0D,FFFFFF,,,,16
+19494,1339,1,L01a02-1 indios verdes - insurgentes,3,D40D0D,FFFFFF,,,,17
+19493,1339,1,L01a02-2 insurgentes - indios verdes,3,D40D0D,FFFFFF,,,,18
+19497,1339,1,L01a03-1 buenavista - el caminero,3,D40D0D,FFFFFF,,,,19
+19498,1339,1,L01a03-2 el caminero - buenavista,3,D40D0D,FFFFFF,,,,20
+19499,1339,1,L01a07-1 indios verdes - el caminero,3,D40D0D,FFFFFF,,,,21
+19500,1339,1,L01a07-2 el caminero - indios verdes,3,D40D0D,FFFFFF,,,,22
+19515,1339,4,L04e02-1 buenavista - san lázaro ote,3,FF9A03,FFFFFF,,,,23
+19516,1339,4,L04e02-2 san lázaro ote - buenavista,3,FF9A03,FFFFFF,,,,24
+19517,1339,4,L04e08-1 buenavista - san lázaro pte,3,FF9A03,FFFFFF,,,,25
+19518,1339,4,L04e08-2 san lázaro pte - buenavista,3,FF9A03,FFFFFF,,,,26
+19519,1339,4,L04e04-1 pantitlán - hidalgo,3,FF9A03,FFFFFF,,,,27
+19520,1339,4,L04e04-2 hidalgo - pantitlán,3,FF9A03,FFFFFF,,,,28
+19522,1339,4,L04e05-1 alameda ote - hidalgo,3,FF9A03,FFFFFF,,,,29
+19523,1339,4,L04e05-2 hidalgo - alameda ote,3,FF9A03,FFFFFF,,,,30
+19524,1339,4,L04e01-1 san lázaro ote - aicm,3,FF9A03,FFFFFF,,,,31
+19525,1339,4,L04e01-2 aicm - san lázaro ote,3,FF9A03,FFFFFF,,,,32
+19552,1339,5,L05f01-1 río de los remedios - san lázaro nte,3,141982,FFFFFF,,,,33
+19553,1339,5,L05f01-2 san lázaro nte - río de los remedios,3,141982,FFFFFF,,,,34
+19554,1339,5,L05f02-1 san lázaro sur - las bombas,3,141982,FFFFFF,,,,35
+19555,1339,5,L05f02-2 las bombas - san lázaro sur,3,141982,FFFFFF,,,,36
+19556,1339,5,L05f04-1 san lázaro sur - preparatoria 1,3,141982,FFFFFF,,,,37
+19557,1339,5,L05f04-2 preparatoria 1 - san lázaro sur,3,141982,FFFFFF,,,,38
+19559,1339,5,L05f05-1 río de los remedios - preparatoria 1,3,141982,FFFFFF,,,,39
+19558,1339,5,L05f05-2 preparatoria 1 - río de los remedios,3,141982,FFFFFF,,,,40
+19563,1339,2,L02c01-1 tepalcates - tacubaya,3,8D1A96,FFFFFF,,,,41
+19562,1339,2,L02c01-2 tacubaya - tepalcates,3,8D1A96,FFFFFF,,,,42
+19564,1339,2,L02c02-1 tepalcates - etiopía l3,3,8D1A96,FFFFFF,,,,43
+19565,1339,2,L02c02-2 etiopía l3 - tepalcates,3,8D1A96,FFFFFF,,,,44
+19566,1339,2,L02c03-1 tepalcates - col. del valle,3,8D1A96,FFFFFF,,,,45
+19567,1339,2,L02c03-2 col. del valle - tepalcates,3,8D1A96,FFFFFF,,,,46
+19576,1339,7,L07h01-1 indios verdes - campo marte,3,116633,FFFFFF,,,,47
+19577,1339,7,L07h01-2 campo marte - indios verdes,3,116633,FFFFFF,,,,48
+19578,1339,7,L07h02-1 hospital infantil - campo marte,3,116633,FFFFFF,,,,49
+19579,1339,7,L07h02-2 campo marte - hospital infantil,3,116633,FFFFFF,,,,50
+19582,1339,7,L07h04-1 indios verdes - la diana,3,116633,FFFFFF,,,,51
+19583,1339,7,L07h04-2 la diana - indios verdes,3,116633,FFFFFF,,,,52
+19584,1339,7,L07h08-1 indios verdes - hamburgo,3,116633,FFFFFF,,,,53
+19585,1339,7,L07h08-2 hamburgo - indios verdes,3,116633,FFFFFF,,,,54
+19909,1339,7,L07h10-1 garibaldi - campo marte,3,116633,FFFFFF,,,,55
+19908,1339,7,L07h10-2 campo marte - garibaldi,3,116633,FFFFFF,,,,56
+19957,1339,7,L07h06-1 hospital infantil - la diana,3,116633,FFFFFF,,,,57
+19956,1339,7,L07h06-2 la diana - hospital infantil,3,116633,FFFFFF,,,,58
+19958,1339,7,L07h05-1 indios verdes - la diana,3,116633,FFFFFF,,,,59
+19959,1339,7,L07h05-2 la diana - indios verdes,3,116633,FFFFFF,,,,60
+19984,1339,1,L21c21-1 rojo gómez - dr. gálvez,3,42A76B,FFFFFF,,,,61
+19983,1339,1,L21c21-2 dr. gálvez - rojo gómez,3,42A76B,FFFFFF,,,,62
+19986,1339,4,L24c24-1 río frío - juárez l3,3,42A76B,FFFFFF,,,,63
+19985,1339,4,L24c24-2 balderas - del moral,3,42A76B,FFFFFF,,,,64
+20016,1339,1,L01a21-1 tepalcates - col. del valle,3,D40D0D,FFFFFF,,,,65
+20015,1339,1,L01a21-2 col. del valle - tepalcates,3,D40D0D,FFFFFF,,,,66
+20211,1339,5,L05f03-1 río de los remedios - las bombas,3,141982,FFFFFF,,,,67
+20212,1339,5,L05f03-2 las bombas - río de los remedios,3,141982,FFFFFF,,,,68
+20264,1339,2,L72h72-1 alameda tacubaya - parís,3,42A76B,FFFFFF,,,,69
+20263,1339,2,L72h72-2 parís - alameda tacubaya,3,42A76B,FFFFFF,,,,70
+20295,1339,1,L31a31-1 indios verdes - pueblo sta cruz atoyac,3,42A76B,FFFFFF,,,,71
+20296,1339,1,L31a31-2 pueblo sta cruz atoyac - indios verdes,3,42A76B,FFFFFF,,,,72
+20406,1339,1,L41e41-1 rep. de argentina - museo de la ciudad,3,42A76B,FFFFFF,,,,73
+20407,1339,1,L41e41-2 museo de la ciudad - rep. de argentina,3,42A76B,FFFFFF,,,,74
+20439,1339,2,L72h73-1 alameda tacubaya - glorieta cuitláhuac sur.,3,42A76B,FFFFFF,,,,75
+20440,1339,2,L72h73-2 glorieta cuitláhuac sur - alameda tacubaya,3,42A76B,FFFFFF,,,,76
