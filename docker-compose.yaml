@@ -1,0 +1,29 @@
+version: "3.8"
+
+services:
+  web:
+    build: .
+    ports:
+      - "5000:5000"
+    depends_on:
+      - db
+    environment:
+      DB_HOST: db
+      DB_NAME: Prueba_Tecnica
+      DB_USER: postgres
+      DB_PASSWORD: 1234
+
+
+  db:
+    image: postgres:17
+    environment:
+      POSTGRES_DB: Prueba_Tecnica
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 1234
+    ports: 
+      - "5433:5433"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:
